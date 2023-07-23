@@ -84,3 +84,8 @@ Git add
 Знакомство с контролем версий [ссылка](https://gbcdn.mrgcdn.ru/uploads/asset/3937510/attachment/187904bc7fa424abc113f5dda8b497ff.pdf)
 
 ---
+### Работа с цитатами и списками
+
+> Каждый думает, что знает меня, но не каждый знает, что не знает, кто думает...
+>> ![Картинка](https://kartinkof.club/uploads/posts/2022-03/1648404565_16-kartinkof-club-p-bezumno-mozhno-bit-pervim-volk-mem-16.jpg)
+
